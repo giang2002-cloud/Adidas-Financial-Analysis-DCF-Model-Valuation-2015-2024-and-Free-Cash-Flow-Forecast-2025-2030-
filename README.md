@@ -1,0 +1,1 @@
+# Adidas-Financial-Analysis-DCF-Model-Valuation-2015-2024-and-Free-Cash-Flow-Forecast-2025-2030-
