@@ -1,10 +1,12 @@
 # Adidas-Financial-Analysis-DCF-Model-Valuation-2015-2024-and-Free-Cash-Flow-Forecast-2025-2030-
 
+##  DCF-Model-Valuation
+
 ![image](https://github.com/user-attachments/assets/ee80171d-c006-413d-bdfd-a20cb0b61f1b)
 
 ![image](https://github.com/user-attachments/assets/fb6f952d-beca-413d-9ad8-905999e957bd)
 
-## Key Highlights:
+##  Key Highlights:
 
 ### Revenue Growth:
 Adidas has shown consistent revenue growth over the years, with a slight decrease in 2020 due to global economic challenges. The revenue in 2024 reached **€23,683 million**. Adidas is projected to experience moderate revenue growth, with an average annual growth rate (CAGR) of **3.81%**. By 2030, total revenue is expected to reach **€25.93 billion**, reflecting steady yet sustainable growth despite the challenges faced in earlier years.
@@ -22,7 +24,7 @@ The terminal value based on **EV/EBITDA** multiples and discounted cash flow (DC
 ### Perpetuity Growth & Discounting:
 The analysis assumes a **Terminal Growth Rate (TGR)** of **3.0%** and a **Weighted Average Cost of Capital (WACC)** of **8.03%**. These assumptions are factored into the final share price, aligning with Adidas' long-term stability and growth potential. The implied share price of Adidas AG is estimated at **$202.52**, which is approximately **5.3% below** its current share price of **$213.80**, indicating a potential downside in the stock value.
 
-### Dashboard
+## Dashboard
 ![image](https://github.com/user-attachments/assets/c7ed5a1d-0e0c-4c4c-bba7-c1fabac2a6a3)
 
 ## Key Highlights:
